@@ -1,0 +1,138 @@
+
+.infoCss{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    color: white;
+}
+
+.rightSide{
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 10px;
+    background: transparent;
+
+}
+.userInfo{
+    min-height: 600px;
+    max-height: auto;
+    background: transparent;
+
+}
+.bgCss{
+    background: rgba(0, 0, 0, 0.281);   
+    opacity: 0.6;
+}
+
+.basketImg{
+    width: 90px;
+    height: 90px;
+    margin-right: 20px;
+}
+.tHead{
+    min-width: 100px !important;
+    max-width: auto;
+    text-align: center !important;
+}
+.tPrice{
+    min-width: 100px !important;
+    max-width: auto;
+    text-align: center !important;
+    padding-top: 4% !important;
+    opacity: 0.6;
+    background: rgba(0, 0, 0, 0.281);   
+
+}
+.settingLogo{
+    font-size: 15px;
+    color: #555;
+    padding-left: 3px;
+}
+.settingLogo:hover{
+    color: red;
+}
+.form-control-plaintext{
+    text-align: center !important;
+}
+
+
+.titleCss{
+    margin-right: 15px;
+}
+
+#hisAlarm{
+    margin-bottom: 0 !important;
+}
+#infoPic{
+    height:500px !important;
+}
+#editPic{
+    height: 400px !important;
+    margin-left: 0 !important;
+}
+
+.back{
+    background: rgb(69,69,70,1) !important;
+/* background: linear-gradient(0deg, rgba(69,69,70,1) 0%, rgba(0,0,0,1) 96%) !important; */
+}
+
+/* hossein */
+
+input{
+    background: transparent !important;
+    border-color: rgb(187,157,23) !important;
+    margin: 0 auto !important;
+    color: white !important;
+    text-align: center;
+}
+span{
+    color:rgb(187,157,23) !important ;
+    font-size: 24px;
+}
+span i{
+    color:rgb(187,157,23) !important ;
+}
+a{
+    color:rgb(187,157,23) !important;
+}
+
+.nav-item{
+    background-color:transparent  ;
+}
+
+.card-img-top{
+    width: auto;
+    height: 250px !important;
+}
+
+.shadowF{
+    box-shadow: none !important;
+    border-style: none !important;
+    color: white;
+}
+.redcolor{
+    color: tomato;
+}
+.formfix{
+    margin: 0 auto;
+}
+
+.form-control-plaintext{
+    border: 2px solid rgb(187,157,23) ;
+}
+th{
+    border: solid 3px rgb(187,157,23) !important;
+    color: white;
+}
+td{
+    border: solid 3px rgb(187,157,23) !important;
+    color: white;
+
+}
+
+
+
+
+
+
+
+

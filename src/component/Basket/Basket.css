@@ -1,0 +1,40 @@
+
+
+.basketImg {
+	width: 80px;
+	height: 80px;
+	margin-right: 20px;
+}
+.tHead {
+	min-width: 100px !important;
+	max-width: auto;
+	text-align: center !important;
+}
+.tPrice {
+	min-width: 100px !important;
+	max-width: auto;
+	text-align: center !important;
+	padding-top: 3% !important;
+}
+/* table2 {
+	background-color: red;
+	height: 40vh;
+} */
+th{
+    border: solid 3px rgb(187,157,23) !important;
+    color: white;
+}
+td{
+    border: solid 3px rgb(187,157,23) !important;
+    color: white;
+
+}
+a{
+	color: rgb(187,157,23);
+}
+.no-item{
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+	height: 20vh;
+}

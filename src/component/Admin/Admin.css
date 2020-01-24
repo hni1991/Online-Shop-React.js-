@@ -1,0 +1,31 @@
+
+
+input{
+    background: transparent !important;
+    border-color: rgb(187,157,23) !important;
+    margin: 0 auto !important;
+}
+a{
+    color:rgb(187,157,23) !important;
+}
+
+.nav-item{
+    background-color:transparent  ;
+}
+
+.card-img-top{
+    width: auto;
+    height: 250px !important;
+}
+
+.shadowF{
+    box-shadow: none !important;
+    border-style: none !important;
+    color: white;
+}
+.redcolor{
+    color: tomato;
+}
+.formfix{
+    margin: 0 auto;
+}

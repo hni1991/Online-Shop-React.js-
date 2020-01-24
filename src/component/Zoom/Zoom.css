@@ -1,0 +1,25 @@
+
+.bigS{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    background-color: rgba(128, 128, 128, 0.404);
+    z-index: 200;
+}
+
+.bigS span{
+    font-size: 24px;
+    color: red;
+    margin-left:100% ;
+}
+.inputF{
+    color: black;
+    text-align: center;
+}
+
+.carousel-item > img {
+	max-height: 500px;
+}

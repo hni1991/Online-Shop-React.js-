@@ -1,0 +1,41 @@
+
+/* Start Login */
+.login-wrap {
+    margin: 0 auto;
+    padding: 40px 40px;
+    max-width: 550px;
+    width: 100%;
+    color: white;
+}
+
+.forget a{
+    color: red;
+}
+
+.btnCss button{
+    color: red !important;
+    border-color: red;
+}
+
+/* Finish Login */
+
+.inv{
+    visibility: hidden;
+}
+
+
+
+input{
+    background: transparent !important;
+    border-color: rgb(187,157,23) !important;
+    margin: 0 auto !important;
+    color: white !important;
+    text-align: center;
+}
+
+span i{
+    color:rgb(187,157,23) !important ;
+}
+a{
+    color:rgb(187,157,23) !important;
+}

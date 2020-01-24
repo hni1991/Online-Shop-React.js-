@@ -1,0 +1,25 @@
+
+.container{
+    padding-right: 0 !important;
+    color: white;
+}
+
+.imgSize{
+    width: 500px !important;
+    height: 350px !important;
+}
+.prog{
+    visibility: hidden;
+}
+input{
+    background: transparent !important;
+    border: 3px solid !important;
+    border-radius: 5px !important;
+    border-color: rgb(187,157,23) !important;
+    color: white !important;
+}
+.btn{
+    background-color:rgb(187,157,23) !important ;
+    border: none !important;
+    color: white !important;
+}

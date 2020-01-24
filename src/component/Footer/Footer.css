@@ -1,0 +1,72 @@
+
+
+/* Start Navbar */
+.active{
+    background: none repeat scroll 0 0 #fff;
+    border-color: #999;
+    border-style: solid solid none;
+    border-width: 1px 1px;
+    box-shadow: 0 -1px 1px grey;
+    color: #555;
+    text-align: center;
+}
+.changer li{
+    width: 30px !important;
+
+}
+.firstNav{
+    background-color: #eee;
+}
+.secNav{
+    background-color: #eee;
+}
+/* Finish Navbar */
+
+/* Start Logo and Search bar */
+
+/* Finish Logo and Search bar */
+
+/*  Start Main */
+
+.main{
+    min-height: 100vh;
+    max-height: auto;
+}
+
+/* Finish Main */
+
+/* Start Footer */
+.indigo{
+    /* background-color: #eee; */
+    background: rgb(187,157,23) !important;
+background: linear-gradient(180deg, rgba(69,69,70,1) 0%, rgba(0,0,0,1) 96%) !important;
+}
+
+.fonti{
+    font-size: 16px !important;
+    color: rgb(187,157,23);
+}
+.mainFont{
+    font-size: 13px ;
+    color: rgb(250, 250, 250) ;
+
+}
+.mainFont1{
+    font-size: 13px ;
+    color: rgb(187,157,23);
+
+}
+.mainFont i{
+    color: rgb(187,157,23);
+
+}
+.mainFont a{
+    color: rgb(250, 249, 248);
+
+}
+a{
+	color: rgb(187,157,23) !important;
+}
+
+/* Finish Footer */
+

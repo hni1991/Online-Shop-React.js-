@@ -1,0 +1,42 @@
+.successC{
+    width: 10%;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.616);
+    top: 50vh;
+    left: 45vw;
+    z-index: 1;
+    border-radius:5px ;
+    animation: suc1 1s ;
+}
+.successC i{
+    color: rgb(187,157,23);
+    font-size: 56px;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+.successC h2{
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+@keyframes suc1{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+
+    }
+}
+@media only screen and (max-width:736px){
+    .successC{
+        width: 40%;
+        position: fixed;
+        background-color: rgba(0, 0, 0, 0.616);
+        top: 50vh;
+        left: 30vw;
+        z-index: 1;
+        border-radius:5px ;
+    }
+}
